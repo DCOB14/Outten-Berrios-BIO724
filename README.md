@@ -1,4 +1,2 @@
 # Outten-Berrios BIO724
- Here you can find files and documents pertaining to my final project.
- 
- You will find a map.
+ Here you can find files and documents on the different survey types and their data. 
