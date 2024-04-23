@@ -15,4 +15,4 @@ I am currently preparing for my first field season in Madagascar that is anticip
  Under this section you will find various maps of the Manombo Special Reserve. This includes a basic map, and a transect map.
 
  ### Final Datas Scripts 
- Here will be final data scripts. 
+ Here you can find final data scripts. 
